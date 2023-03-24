@@ -1,0 +1,12 @@
+flask
+flask_restful
+web3
+python-dotenv
+pydantic
+flask_pydantic
+flask_cors
+flask_login
+py-solc-x
+cmake
+pyjwt
+retrying
